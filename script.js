@@ -18,3 +18,4 @@ document.getElementById("reset_button").addEventListener("click", () => {
     document.getElementById(i.toString()).style.backgroundColor = "transparent";
   }
 });
+
